@@ -28,4 +28,8 @@ class PagesController extends Controller
     public function blog(){
         return view('blog');
     }
+    
+    public function login(){
+        return view('login');
+    }
 }

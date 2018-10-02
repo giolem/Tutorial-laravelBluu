@@ -39,6 +39,11 @@
 </table>
 
 </div>
+<div class="container">
+<H2>Do you want to log into the app?</H2>
+ <a href="{{route('home')}}" class="btn btn-info"> You need to login to see the list 😜😜 >></a>
+
+</div>
 
 
 
